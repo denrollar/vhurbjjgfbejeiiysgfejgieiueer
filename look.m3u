@@ -80,118 +80,34 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
-
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 30
-http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 31
-https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 32
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 33
-http://kinowalk.hopto.org/play4fun_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 34
-http://kinowalk.hopto.org/astrix116_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 35
-http://kinowalk.hopto.org/kycman_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 36
-http://kinowalk.hopto.org/argo_13_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 37
-http://kinowalk.hopto.org/3jiou_tatapuh_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 38
-http://kinowalk.hopto.org/lisfix_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 39
-http://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 40
-http://kinowalk.hopto.org/kinostreamlive_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 41
-http://kinowalk.hopto.org/devchata_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 42
-http://kinowalk.hopto.org/serials2025_live
-#EXTINF:-1 group-title="Кинозалы", Кинозалы 43
-http://kinowalk.hopto.org/seriality_live
-#EXTINF:-1 group-title="Кинозалы", natanatty
-http://kinowalk.hopto.org/nata.natty_live
-#EXTINF:-1 group-title="Кинозалы", Назад в СССР
-http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 group-title="Кинозалы", Video_Prokat
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №1
 http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 group-title="Кинозалы", FGS
-http://kinowalk.hopto.org/dscb_live
-#EXTINF:-1 group-title="Кинозалы", У КРАЯ БЕЗДНЫ 24/7
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №2
 http://kinowalk.hopto.org/ddator_live
-#EXTINF:-1 group-title="Кинозалы", ZumiBox
-http://kinowalk.hopto.org/zumibox_live
-#EXTINF:-1 group-title="Кинозалы", VideoVk
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №3
 http://kinowalk.hopto.org/videovk_live
-#EXTINF:-1 group-title="Кинозалы", ПикаБУ!
-http://kinowalk.hopto.org/pipa39_live
-#EXTINF:-1 group-title="Кинозалы", AASS
-http://kinowalk.hopto.org/aaasss_live
-#EXTINF:-1 group-title="Кинозалы", Prodigy_movie
-http://kinowalk.hopto.org/roman_prodigy_live
-#EXTINF:-1 group-title="Кинозалы", MAX
-http://kinowalk.hopto.org/maximum_live
-#EXTINF:-1 group-title="Кинозалы", InMuNa Live
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №4
 http://kinowalk.hopto.org/inmuna_live
-#EXTINF:-1 group-title="Кинозалы", Тоха Стрим
-http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1 group-title="Кинозалы", Solo ink
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №5
 http://kinowalk.hopto.org/soloink_live
-#EXTINF:-1 group-title="Кинозалы", Егор Егорыч
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №6
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №7
 http://kinowalk.hopto.org/yegor_yegorych_live
-#EXTINF:-1 group-title="Кинозалы", TopMoment LiVE
-http://kinowalk.hopto.org/topmomentlive_live
-#EXTINF:-1 group-title="Кинозалы", VHS кино
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №8
 http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 group-title="Кинозалы", 33 квадратных метра
-http://kinowalk.hopto.org/33metra_live
-#EXTINF:-1 group-title="Кинозалы", TimeToMovie
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №9
 http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="Кинозалы", Blockbusters Time
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №10
 http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="Кинозалы", Dimpon TV
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №11
 http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №12
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1 group-title="Кинозалы", Кинозалы №13
+http://kinowalk.hopto.org/yurich_kinomix_live
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" , Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+
 
 
 #EXTINF:-1 group-title="4K Видео" tvg-logo="https://pic.rtbcdn.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg", Камин
